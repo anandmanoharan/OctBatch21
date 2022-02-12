@@ -4,6 +4,7 @@ public class Patner {
 
 	 int id=030456;
 	 String Name="PrivateOrg";
+	 String gender="Male";
 	 
 	 public void getPatnerID() {
 		// int id=456464;
